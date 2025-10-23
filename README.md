@@ -1,8 +1,7 @@
 # SQL Interview Project: Credit Card Transaction Analysis
 
 ## Overview
-This project presents 9 real-world SQL analytical problems solved using advanced SQL concepts such as **CTEs**, **Window Functions**, **Aggregations**, and **Date Functions**.  
-It demonstrates SQL problem-solving and analytical thinking for interviews and practical data analysis.
+This project presents 9 real-world SQL analytical problems solved using advanced SQL concepts such as **CTEs**, **Window Functions**, **Aggregations**, and **Date Functions**.
 
 ---
 
